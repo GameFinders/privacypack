@@ -371,8 +371,7 @@
             "mainstream_apps": [
                 { "id": "discord", "name": "Discord" },
                 { "id": "guilded", "name": "Guilded" },
-                { "id": "slack", "name": "Slack" },
-                { "id": "mattermost", "name": "Mattermost" }
+                { "id": "slack", "name": "Slack" }
             ],
             "private_alternatives": [
                 { "id": "matrix", "name": "Matrix" },
@@ -380,7 +379,8 @@
                 { "id": "discourse", "name": "Discourse" },
                 { "id": "gamevox", "name": "GameVox" },
                 { "id": "stoat", "name": "Stoat" },
-                { "id": "fluxer", "name": "Fluxer" }
+                { "id": "fluxer", "name": "Fluxer" },
+                { "id": "mattermost", "name": "Mattermost" }
             ]
         },
         {
